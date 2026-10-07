@@ -93,9 +93,6 @@ function Nav({ onHome }) {
         <a href="#bianche">Blancas</a>
         <a href="#dolci">Postres</a>
       </div>
-      <a className="btn primary sm" href="#info">
-        Reservar
-      </a>
     </nav>
   )
 }
