@@ -191,8 +191,8 @@ function Info() {
         <h2>Visítanos</h2>
       </div>
       <div className="info">
-        <div className="card">
-          <h4>Dirección &amp; Contacto</h4>
+<div className="card">
+          <h4>Dirección & Contacto</h4>
           <p>
             Av. San Martín 420, Centro
             <br />
@@ -200,7 +200,6 @@ function Info() {
             <br />
             Delivery gratis zona céntrica · $2.50 fuera de zona
           </p>
-          <span className="pill accent">Reservá tu mesa</span>
         </div>
         <div className="card">
           <h4>Orari</h4>
